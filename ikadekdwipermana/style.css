@@ -1,0 +1,39 @@
+.luar {
+    height: 6cm;
+    width: 8cm;
+    border: 1px solid #000;
+    margin: auto;
+    overflow: hidden;
+    background-color: blue;
+
+}
+.atas {
+    height: 30%;
+    width: 100%;
+    background-color: aqua;
+    position: relative;
+}
+/* .bawah {
+    height: 70%;
+    width: 100%;
+    background-color: aqua;
+} */
+
+.logo {
+    position: absolute;
+    height: 42px;
+    width: 42px;
+    top: 12px;
+    left: 13px;
+
+}
+ h3 {
+   font-family: 'Times New Roman', Times, serif;
+   margin-left: 60px;
+   position: absolute;
+   margin-top: 30px;
+}
+h4 {
+    position: absolute;
+   margin-left: 60px;
+}
